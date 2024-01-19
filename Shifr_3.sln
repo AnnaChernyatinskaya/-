@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shifr_3", "Shifr_3.csproj", "{A217E63D-31C1-43BA-B074-E9854331F6C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A217E63D-31C1-43BA-B074-E9854331F6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A217E63D-31C1-43BA-B074-E9854331F6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A217E63D-31C1-43BA-B074-E9854331F6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A217E63D-31C1-43BA-B074-E9854331F6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE93259E-5E0F-4F10-94AD-9FCFBE63D39E}
+	EndGlobalSection
+EndGlobal
